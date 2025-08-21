@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1755744507180,
+      "tag": "0000_mushy_master_mold",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1755748940461,
+      "tag": "0001_real_nightmare",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1755752052266,
+      "tag": "0002_damp_aqueduct",
+      "breakpoints": true
+    }
+  ]
+}
