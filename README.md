@@ -87,8 +87,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## Autor
 
 **Edgar López Gualdrón**
-
-- GitHub: [@Spike1192](https://github.com/Spike1192)
+**Gabriela Espinosa**
+**Kevin Florez**
+**Pedro Nieto**
 
 ## Estado del Proyecto
 
