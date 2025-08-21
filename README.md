@@ -230,7 +230,12 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👥 Autores
 
-- **Talento Tech Team** - Desarrollo inicial y mejoras
+**Edgar López Gualdrón**
+**Gabriela Espinosa**
+**Kevin Florez**
+**Pedro Nieto**
+
+**Talento Tech Team** - Desarrollo inicial y mejoras
 
 ## 🙏 Agradecimientos
 
